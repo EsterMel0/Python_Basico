@@ -9,8 +9,6 @@ idade = input("Informe sua idade:\n")
 altura = input("Informe sua altura:\n")
 telefone = input("Informe seu telefone:\n")
 
-print("")
-
 print("------------RELATÓRIO GERAL------------")
 print("Nome:\t\t", nome)
 print("Idade:\t\t", idade)

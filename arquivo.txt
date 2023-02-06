@@ -1,0 +1,15 @@
+NOME: Estefany
+IDADE: 19
+
+NOME: Maria
+IDADE: 23
+
+NOME: José
+IDADE: 39
+
+NOME: Eduardo
+IDADE: 18
+
+NOME: Joana
+IDADE: 34
+
